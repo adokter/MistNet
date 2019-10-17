@@ -6,3 +6,5 @@ This repository contains a [PyTorch](https://pytorch.org/) implementation of Mis
 For details, see our [publication](https://doi.org/10.1111/2041-210X.13280):
 
 Tsung‐Yu Lin, Kevin Winner, Garrett Bernstein, Abhay Mittal, Adriaan M. Dokter, Kyle G. Horton, Cecilia Nilsson, Benjamin M. Van Doren, Andrew Farnsworth. Frank A. La Sorte, Subhransu Maji, Daniel Sheldon (2019) MistNet: Measuring historical bird migration in the US using archived weather radar data and convolutional neural networks, *Methods in Ecology and Evolution*, [DOI 10.1111/2041-210X.13280](https://doi.org/10.1111/2041-210X.13280)
+
+To use MistNet in the [vol2bird](https://github.com/adokter/vol2bird) algorithm, a local copy of `mistnet_nexrad.pt` from this repository is required in addition to the full installation of vol2bird.
