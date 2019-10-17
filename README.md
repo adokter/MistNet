@@ -1,7 +1,7 @@
 # MistNet
-MistNet convolution neural network for segmentation of rain and biology in weather radar data
+MistNet is a convolution neural network for segmentation of rain and biology in weather radar data, developed by Tsung-Yu Lin et al. at University of Massachusetts Amherst
 
-Developed by Tsung-Yu Lin et al. at University of Massachusetts Amherst
+This repository contains a [PyTorch](https://pytorch.org/) implementation of MistNet.
 
 For details, see our [publication](https://doi.org/10.1111/2041-210X.13280):
 
